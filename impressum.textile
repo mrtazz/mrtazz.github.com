@@ -1,0 +1,16 @@
+---
+layout: page
+title: Impressum
+---
+
+h2. Impressum
+
+Contact:
+Daniel Schauenberg
+Hugstetter Str. 58
+79106 Freiburg
+$MYFIRSTNAME@lordofhosts.de
+
+Disclaimer:
+
+
