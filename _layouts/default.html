@@ -1,10 +1,23 @@
 <!DOCTYPE html>
-<html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
     <head>
-        <title>{{ page.title }}</title>
+        <link href="css/style.css" media="screen" rel="stylesheet" type="text/css">
+        <title>lordofhosts.de - {{ page.title }}</title>
     </head>
     <body>
-        <h1>{{ page.title }}</h1>
-        {{ content }}
+        <div id="links" class="menu">
+            <ul class="nobullet">
+                <li><a href="about.html">About me</a></li>
+                <li>Me on:</li>
+                <li><a href="http://twitter.com/mrtazz">twitter.com</a></li>
+                <li><a href="http://github.com/mrtazz">github.com</a></li>
+            </ul>
+        </div>
+        <div id="header">
+            <h1> {{ page.title }}</h1>
+        </div>
+        <div id="content">
+            {{ content }}
+        </div>
     </body>
 </html>

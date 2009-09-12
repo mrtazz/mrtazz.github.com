@@ -1,10 +1,13 @@
 <!DOCTYPE html>
-<html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
     <head>
-        <title>{{ page.title }}</title>
+        <link href="/css/style.css" media="screen" rel="stylesheet" type="text/css">
+        <title> lordofhosts.de - {{ page.title }} </title>
     </head>
     <body>
-        <h1>{{ page.title }}</h1>
-        {{ content }}
+        <h1 id="title">{{ page.title }}</h1>
+        <div id="content">
+            {{ content }}
+        </div>
     </body>
 </html>
