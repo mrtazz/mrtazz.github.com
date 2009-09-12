@@ -1,0 +1,18 @@
+---
+layout: default
+title: About me
+---
+
+h2. About me
+
+Hi, I'm Daniel and this is my online space where I share some of my thoughts
+if I find the time to jot them down. You can contact me via
+
+$MYFIRSTNAME@lordofhosts.de
+
+Disclaimer:
+I try hard to check all the links I post here, but since the destination sites
+are not under my control, I can not take any warranty or responsibility for
+their content.
+
+
