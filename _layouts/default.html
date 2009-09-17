@@ -9,17 +9,22 @@
     <body>
         <div id="links" class="menu">
             <ul class="nobullet">
-                <li><a href="about.html">About me</a></li>
-                <li>Me on:</li>
+                <li><a href="/index.html">Home</a></li>
+                <li><a href="/archive.html">Archive</a></li>
+                <li><a href="/about.html">About</a></li>
+                <li><br></li>
+                <li>Find me on:</li>
                 <li><a href="http://twitter.com/mrtazz">twitter.com</a></li>
                 <li><a href="http://github.com/mrtazz">github.com</a></li>
             </ul>
         </div>
-        <div id="header">
-            <h1> {{ page.title }}</h1>
-        </div>
-        <div id="content">
-            {{ content }}
+        <div id="wrapper">
+            <div id="header">
+                <h1> {{ site.headline }}</h1>
+            </div>
+            <div id="content">
+                {{ content }}
+            </div>
         </div>
     </body>
 </html>
