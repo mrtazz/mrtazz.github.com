@@ -4,32 +4,36 @@
 }
 
 body {
-    background-color: ##F2E0F2;
+    /*background-color: #FEF9E8;*/
+    background-color: #F4F5F5;
     color: #051822;
-    font-family: "Times New Roman", serif;
+    font-family: "Helvetica","Arial", serif;
 
+}
+
+#wrapper {
+    background-color: #F2E0F2;
 }
 
 #header {
     position: absolute;
     top: 50px;
-    left: 250px;
-    width: 400px;
+    left: 330px;
+    width: 480px;
     font-family: "Helvetica", "Arial", sans-serif;
 }
 
 #content {
     position: absolute;
-    left: 170px;
+    left: 250px;
     top: 160px;
     width: 600px;
 }
-
 .menu {
     position: absolute;
-    left: 800px;
+    left: 930px;
     top: 150px;
-    width: 75px;
+    width: 100px;
 }
 
 ul.nobullet {
@@ -37,17 +41,36 @@ ul.nobullet {
 }
 
 a:link {
-  color: #5371DF;
+  color: #840044;
   text-decoration: none;
 }
 
 a:visited {
-  color: #7243C9;
+  color: #840044;
   text-decoration: none;
 }
 
 a:hover {
-  color: #5371DF;
+  color: #840044;
   text-decoration: underline;
+}
+
+h1 {
+    font-size:36px;
+    margin-bottom: 15px;
+}
+h2 {
+    font-size:24px;
+    margin-bottom: 15px;
+}
+p {
+    margin-bottom: 15px;
+}
+/* single post page layout */
+.postcontent {
+    width: 550px;
+}
+.postdate {
+   text-align: right; 
 }
 
