@@ -1,0 +1,27 @@
+---
+layout: nil
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+    <title>lordofhosts.de</title>
+	<subtitle>{{ site.headline }}</subtitle>
+	<link href="{{ site.url }}" rel="self" />
+	<link href="{{ site.url }}/" />
+	<id>{{ site.url }}</id>
+	<updated>{{ site.time | date_to_xmlschema }}</updated>
+	<author>
+		<name>Daniel</name>
+		<email>daniel@lordofhosts.de</email>
+	</author>
+
+    {% for post in site.posts limit:10 %}
+	<entry>
+		<title>{{ post.title }}</title>
+        <link href="http://localhost:4000/{{ post.url }}" />
+        <id>http://localhost:4000/{{ post.url }}</id>
+		<updated>{{ post.date | date_to_xmlschema }}</updated>
+		<content type="hml">{{ post.content | xml_escape }}</content>
+	</entry>
+    {% endfor %} 
+</feed>
