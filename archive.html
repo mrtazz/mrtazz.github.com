@@ -1,0 +1,15 @@
+---
+layout: default
+title: Archive
+---
+<h2>Until now these {{ site.posts.size }} ideas have been transformed into text.</h2>
+<br>
+<div class="postcontent">
+  <ul class="nobullet">
+  {% for post in site.posts %}
+    <li>
+      {{ post.date | date: "%b %d, %Y"  }}:<a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+  </ul>
+</div>
