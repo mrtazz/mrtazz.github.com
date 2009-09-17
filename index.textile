@@ -1,7 +1,0 @@
----
-layout: default
-title: mrtazz.github.com
----
-Someday here will really be some content.
-
-"Impressum":impressum.html
