@@ -89,3 +89,12 @@ p {
    text-align: right;
    margin-bottom: 10px;
 }
+.post p{
+  font-size: 12pt;
+  line-height: 22px;
+}
+.postcontent p{
+  width: 550px;
+  font-size: 12pt;
+  line-height: 22px;
+}
