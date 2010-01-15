@@ -1,4 +1,4 @@
-destination: ./_site
+destination: /usr/local/www/lordofhosts.de/public_html
 auto:        false
 lsi:         false
 server:      false
@@ -12,5 +12,5 @@ maruku:
   png_dir:    images/latex
   png_url:    /images/latex
 headline:    thoughts which have made it into written existence
-url:         localhost:4000
-domain:      mrtazz.com
+url:         unwiredcouch.com
+domain:      unwiredcouch.com

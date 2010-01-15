@@ -3,7 +3,7 @@ layout: nil
 ---
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- 
+
     <title><{{ site.url }}/title>
 	<subtitle>{{ site.headline }}</subtitle>
 	<link href="{{ site.url }}" rel="self" />
@@ -12,7 +12,7 @@ layout: nil
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
 	<author>
 		<name>Daniel</name>
-		<email>d@mrtazz.com</email>
+		<email>d@unwiredcouch.com</email>
 	</author>
 
     {% for post in site.posts limit:10 %}
@@ -23,5 +23,5 @@ layout: nil
 		<updated>{{ post.date | date_to_xmlschema }}</updated>
 		<content type="hml">{{ post.content | xml_escape }}</content>
 	</entry>
-    {% endfor %} 
+    {% endfor %}
 </feed>
