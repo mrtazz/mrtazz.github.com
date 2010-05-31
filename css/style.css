@@ -40,6 +40,12 @@ ul.nobullet {
   list-style-type: none;
 }
 
+ul#factslist
+{
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
 a:link {
   color: #840044;
   text-decoration: none;
