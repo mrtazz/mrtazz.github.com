@@ -1,0 +1,95 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    /*background-color: #F2F4F9;*/
+    background-color: white;
+    color: black;
+    font-family: "Helvetica","Arial", sans-serif;
+
+}
+
+#title {
+  position: relative;
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 600px;
+}
+
+#bio {
+  position: relative;
+  width: 450px;
+  margin-top: 2px;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+#line {
+  position: relative;
+  width: 900px;
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#info {
+  position: relative;
+  width: 850px;
+  text-align: center;
+  margin-top: 40px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#projects {
+  position: absolute;
+  width: 225px;
+}
+
+#otherplaces {
+  position: absolute;
+  width: 225px;
+  margin-left: 300px;
+}
+
+#contact {
+  position: absolute;
+  width: 225px;
+  margin-left: 600px;
+}
+
+h1 {
+    font-family: "Courier", sans-serif;
+    font-size:54px;
+    margin-bottom: 15px;
+}
+h2 {
+    color: #FF0000;
+    font-size:24px;
+    margin-bottom: 15px;
+}
+
+ul.nobullet {
+  list-style-type: none;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  color: #840044;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+p {
+    margin-bottom: 15px;
+}
