@@ -4,7 +4,7 @@ layout: nil
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-    <title><{{ site.url }}/title>
+  <title>{{ site.url }}</title>
 	<subtitle>{{ site.headline }}</subtitle>
 	<link href="{{ site.url }}" rel="self" />
 	<link href="{{ site.url }}/" />
