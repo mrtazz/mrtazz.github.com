@@ -5,23 +5,10 @@ title: About
 
 ## [About]({{page.title}})
 
-Some quick facts so you know who you are reading:
-    
-<ul id="factslist">
-<li> Daniel </li>
-<li> Born in the early 80s </li>
-<li> Computer Scientist </li>
-<li> Mac/Unix user </li>
-<li> Power/small forward </li>
-<li> Likes breakfast </li>
-<li> Tried blogging several times before </li>
-<li> Got started again by <a href="http://github.com/mojombo/jekyll">jekyll</a> </li>
-<li> Uses python </li>
-<li> Tries to learn ruby </li>
-<li> Doesn't get facebook </li>
-<li> Can be reached via $HISFIRSTNAME@unwiredcouch.com </li>
-<li> Just noticed that he is also doing this annoying 3rd person thing </li>
-</ul>
+Hi I am Daniel. I'm a software engineer by day (and also sometimes by night).
+When I'm not writing code, I'm usually having rich breakfasts, playing
+basketball or watching TV shows. Shoot me an email at anything@unwiredcouch.com
+if you want so say "Hi".
 
 ### Disclaimer:
 I try hard to check all the links I post here, but since the destination sites are
