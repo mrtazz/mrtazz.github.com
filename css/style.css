@@ -27,25 +27,46 @@ body {
     position: absolute;
     left: 200px;
     top: 180px;
-    width: 600px;
+    width: 700px;
 }
 .menu {
     position: absolute;
-    left: 900px;
-    top: 170px;
+    left: 1000px;
+    top: 150px;
     width: 100px;
 }
 
 ul.nobullet {
+  margin-top: 15px;
   list-style-type: none;
 }
-
-ul#factslist
-{
-    margin-left: 20px;
-    margin-bottom: 20px;
+h1 {
+    font-family: "Palatino", "Palatino Linotype", "Georgia", serif;
+    font-size:34px;
+    margin-bottom: 15px;
 }
-
+h2 {
+    color: #184468;
+    font-family: "Lobster";
+    font-size: 30px;
+    margin-bottom: 22px;
+}
+h3 {
+    color: #184468;
+    font-family: "Lobster";
+    font-size:24px;
+    margin-bottom: 10px;
+}
+h4 {
+    font-size:16px;
+    margin-bottom: 15px;
+}
+p, pre{
+    margin-bottom: 15px;
+}
+pre{
+  margin-left: 25px;
+}
 a:link {
   color: #840044;
   text-decoration: none;
@@ -60,28 +81,13 @@ a:hover {
   color: #840044;
   text-decoration: underline;
 }
-
-h1 {
-    font-family: "Courier", sans-serif;
-    font-size:34px;
-    margin-bottom: 15px;
-}
-h2 {
-    color: #184468;
-    font-size:24px;
-    margin-bottom: 15px;
-}
 a.posttitle {
     color: #184468;
     font-size:24px;
     margin-bottom: 15px;
 }
-h3 {
-    font-size:16px;
-    margin-bottom: 15px;
-}
-p {
-    margin-bottom: 15px;
+div.menu a.avatar {
+    margin-bottom: 30px;
 }
 /* single post page layout */
 .postcontent {
@@ -103,4 +109,8 @@ p {
   width: 550px;
   font-size: 12pt;
   line-height: 22px;
+}
+.post ul{
+  margin-left: 30px;
+  margin-bottom: 15px;
 }
