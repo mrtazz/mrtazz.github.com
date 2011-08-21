@@ -4,7 +4,6 @@
         <link href="/css/style.css" media="screen" rel="stylesheet" type="text/css">
         <link href="http://feeds.feedburner.com/unwiredcouchcom"
         type="application/atom+xml" rel="alternate" title="unwiredcouch.feed" />
-        {% include analytics.html %}
 
         <title>unwiredcouch.com - {{ page.title }}</title>
     </head>
@@ -33,5 +32,6 @@
                 {{ content }}
             </div>
         </div>
+        {% include gauges.html %}
     </body>
 </html>
