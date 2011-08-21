@@ -114,3 +114,11 @@ div.menu a.avatar {
   margin-left: 30px;
   margin-bottom: 15px;
 }
+
+div.archive {
+  margin-left: 30px;
+}
+
+span.archivedate {
+  float: right;
+}

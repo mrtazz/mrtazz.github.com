@@ -2,13 +2,15 @@
 layout: default
 title: Archive
 ---
-<h2>Until now these {{ site.posts.size }} ideas have been transformed into written text.</h2>
-<br>
-<div class="postcontent">
+<h3> Until now these {{ site.posts.size }} ideas have been transformed into
+  written text:</h3>
+</br>
+<div class="postcontent archive">
   <ul class="nobullet">
   {% for post in site.posts %}
     <li>
-      {{ post.date | date: "%b %d, %Y"  }}:<a href="{{ post.url }}"> {{ post.title }}</a>
+    <a href="{{ post.url }}"> {{ post.title }}</a>
+    <span class="archivedate">{{ post.date | date: "%b %d, %Y"}}</span>
     </li>
   {% endfor %}
   </ul>
