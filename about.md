@@ -5,10 +5,12 @@ title: About
 
 ## [About]({{page.title}})
 
-Hi I am Daniel. I'm a software engineer by day (and also sometimes by night).
-When I'm not writing code, I'm usually having rich breakfasts, playing
-basketball or watching TV shows. Shoot me an email at anything@unwiredcouch.com
-if you want so say "Hi".
+I'm a software engineer by day (and also sometimes by night). When I'm not
+writing code, I'm usually having breakfast, play basketball or watch TV shows.
+Shoot me an email at anything@unwiredcouch.com if you want so say "Hi".
+
+Fonts for the twitter and github links are taken from [Font Awesome](
+http://fortawesome.github.com/Font-Awesome).
 
 ### Disclaimer:
 I try hard to check all the links I post here, but since the destination sites are
