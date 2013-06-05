@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+    <head>
+        <link href="/css/style.css" media="screen" rel="stylesheet" type="text/css"></link>
+        <link href="/css/pygments.css" media="screen" rel="stylesheet" type="text/css"></link>
+        <link href="/css/font-awesome.css" rel="stylesheet">
+        <link href="http://feeds.feedburner.com/unwiredcouchcom"
+        type="application/atom+xml" rel="alternate" title="unwiredcouch.feed" />
+
+        <title>unwiredcouch.com</title>
+    </head>
+    <body>
+        <div id="links" class="menu">
+           <a href="/">
+             <img src="/images/me.jpeg"
+                  height="100" width="100" class="avatar" alt="gravatar image" />
+           </a>
+            <ul class="nobullet">
+                <li><a href="/">writing</a></li>
+                <li><a href="/talks.html">talks</a></li>
+                <li><a href="/about.html">about</a></li>
+            </ul>
+            <hr>
+            <ul class="linkicons">
+              <li><a href="http://feeds.feedburner.com/unwiredcouchcom"><i class="icon-rss"
+                  style="font-size: 20px;"> </i></a></li>
+              <li><a href="https://github.com/mrtazz"><i class="icon-github"
+                  style="font-size: 20px;"> </i></a></li>
+              <li><a href="https://twitter.com/mrtazz"><i class="icon-twitter"
+                  style="font-size: 20px;"> </i></a></li>
+            </ul>
+        </div>
+        <div id="wrapper">
+            <div id="content">
+                {{ content }}
+            </div>
+        </div>
+        {% include gauges.html %}
+    </body>
+</html>

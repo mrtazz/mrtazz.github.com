@@ -1,0 +1,16 @@
+destination: ./_site
+lsi:         false
+port:        4000
+pygments:    true
+markdown: maruku
+rdiscount:
+  extensions: [smart]
+permalink:   date
+maruku:
+  use_tex:    false
+  use_divs:   false
+  png_dir:    images/latex
+  png_url:    /images/latex
+url:         unwiredcouch.com
+domain:      unwiredcouch.com
+headline:    unwiredcouch.com
