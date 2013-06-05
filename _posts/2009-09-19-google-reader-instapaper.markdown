@@ -36,7 +36,7 @@ library](http://github.com/mrtazz/InstapaperLibrary) before, which I mainly
 used to save articles for later on the command line.
 
 So I sat down and started to write [the
-bridge](http://github.com/mrtazz/instareader]. All in all it took
+bridge](http://github.com/mrtazz/instareader.py). All in all it took
 me a bit more than a month (due to university life, work and exams) to finally
 get a basic version working, which is able to retrieve starred items, save
 them to instapaper and then remove the star from instapaper. The script is now
