@@ -3,34 +3,34 @@
     <head>
         <link href="/css/style.css" media="screen" rel="stylesheet" type="text/css"></link>
         <link href="/css/pygments.css" media="screen" rel="stylesheet" type="text/css"></link>
-        <link href="/css/font-awesome.css" media="screen" rel="stylesheet" type="text/css"></link>
+        <link href="/css/font-awesome/css/font-awesome.min.css" rel="stylesheet">
         <link href="http://feeds.feedburner.com/unwiredcouchcom"
         type="application/atom+xml" rel="alternate" title="unwiredcouch.feed" />
 
-        <title>unwiredcouch.com - {{ page.title }}</title>
+        <title>unwiredcouch.com</title>
     </head>
     <body>
         <div id="links" class="menu">
            <a href="/">
-             <img src="http://gravatar.com/avatar/89e0ad1229121f46047977ac547bd7b4?s=142"
-                  height="75" width="75" class="avatar" alt="gravatar image" />
+             <img src="/images/me.jpeg"
+                  height="100" width="100" class="avatar" alt="gravatar image" />
            </a>
             <ul class="nobullet">
-                <li><a href="/index.html">Home</a></li>
-                <li><a href="/archive.html">Archive</a></li>
-                <li><a href="/about.html">About</a></li>
-                <li><a href="http://feeds.feedburner.com/unwiredcouchcom">Feed</a></li>
-                <li>-----</li>
+                <li><a href="/">writing</a></li>
+                <li><a href="/talks.html">talks</a></li>
+                <li><a href="/about.html">about</a></li>
             </ul>
-                <a href="http://twitter.com/mrtazz"><i class="icon-twitter"
-                    style="font-size: 24px;"> </i></a>
-                <a href="http://github.com/mrtazz"><i class="icon-github"
-                    style="font-size: 24px;"> </i></a>
+            <hr>
+            <ul class="linkicons">
+              <li><a href="http://feeds.feedburner.com/unwiredcouchcom"><i class="icon-rss"
+                  style="font-size: 20px;"> </i></a></li>
+              <li><a href="https://github.com/mrtazz"><i class="icon-github-sign"
+                  style="font-size: 20px;"> </i></a></li>
+              <li><a href="https://twitter.com/mrtazz"><i class="icon-twitter"
+                  style="font-size: 20px;"> </i></a></li>
+            </ul>
         </div>
         <div id="wrapper">
-            <div id="header">
-                <h1>{{ site.headline }}</h1>
-            </div>
             <div id="content">
                 {{ content }}
             </div>
