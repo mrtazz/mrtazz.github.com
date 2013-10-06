@@ -3,6 +3,11 @@ layout: default
 title: Talks
 talks:
   -
+    title: Feature Flagging your Infrastructure for Fun and Profit
+    url: https://speakerdeck.com/mrtazz/feature-flagging-your-infrastructure-for-fun-and-profit
+    conference: NYC LOPSA Meetup
+    date: Sep 11, 2013
+  -
     title: DevTools at Etsy
     url: https://speakerdeck.com/mrtazz/devtools-at-etsy
     conference: DevOpsDays Berlin
