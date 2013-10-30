@@ -3,7 +3,7 @@ All original texts and images are licensed under the
 [Creative Commons Attribution license][2]. All code is
 licensed under the MIT license:
 
-  Copyright (c) 2009 Daniel Schauenberg
+  Copyright (c) 2013 Daniel Schauenberg
 
   Permission is hereby granted, free of charge, to any person obtaining
   a copy of this software and associated documentation files (the
