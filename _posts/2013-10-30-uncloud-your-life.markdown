@@ -175,13 +175,13 @@ up a TV or a Roomba today.
 
 [sovereign]: https://github.com/al3x/sovereign
 [omnifocus]: http://www.omnigroup.com/omnifocus
-[freebsd]: http://www.omnigroup.com/omnifocus
-[sendmail]: http://www.omnigroup.com/omnifocus
-[mutt]: http://www.omnigroup.com/omnifocus
-[dovecot]: http://www.omnigroup.com/omnifocus
-[triage]: http://www.omnigroup.com/omnifocus
-[owncloud]: http://www.omnigroup.com/omnifocus
-[offlineimap]: http://www.omnigroup.com/omnifocus
+[freebsd]: http://www.freebsd.org
+[sendmail]: http://www.sendmail.com/sm/open_source/
+[mutt]: http://www.mutt.org
+[dovecot]: http://www.dovecot.org
+[triage]: http://www.triage.cc
+[owncloud]: http://owncloud.org
+[offlineimap]: http://offlineimap.org
 [dropbox]: http://dropbox.com
 [alfred]: http://www.alfredapp.com
 [simplenote]: http://simplenote.com
