@@ -3,6 +3,11 @@ layout: default
 title: Talks
 talks:
   -
+    title: Scaling Deployment at Etsy (revised)
+    url: https://speakerdeck.com/mrtazz/continuous-delivery-meetup-nyc-2013
+    conference: Continuous Delivery NYC Meetup
+    date: Oct 09, 2013
+  -
     title: Feature Flagging your Infrastructure for Fun and Profit
     url: https://speakerdeck.com/mrtazz/feature-flagging-your-infrastructure-for-fun-and-profit
     conference: NYC LOPSA Meetup
