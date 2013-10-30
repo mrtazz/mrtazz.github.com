@@ -6,8 +6,7 @@
 body {
     background-color: white;
     color: #051822;
-    font-family: "Helvetica","Arial", sans-serif;
-
+    font-family: "ambleregular", "Arial", sans-serif;
 }
 
 #wrapper {
@@ -19,7 +18,6 @@ body {
     top: 10px;
     left: 240px;
     width: 540px;
-    font-family: "Helvetica", "Arial", sans-serif;
 }
 
 #content {
@@ -61,19 +59,18 @@ ul.archive li{
   margin-bottom: 10px;
 }
 h1 {
-    font-family: "Palatino", "Palatino Linotype", "Georgia", serif;
     font-size:34px;
     margin-bottom: 15px;
+    font-family: "amblebold", "Arial", sans-serif;
 }
 h2 {
     color: #184468;
-    font-family: "Lobster";
     font-size: 30px;
     margin-bottom: 22px;
+    font-family: "amblebold", "Arial", sans-serif;
 }
 h3 {
     color: #184468;
-    font-family: "Lobster";
     font-size:24px;
     margin-bottom: 10px;
 }
@@ -112,6 +109,7 @@ div.menu a.avatar {
 /* single post page layout */
 .postcontent {
     width: 650px;
+    font-size: 13pt;
 }
 .postdate {
    text-align: right;
@@ -122,12 +120,10 @@ div.menu a.avatar {
    margin-bottom: 10px;
 }
 .post p{
-  font-size: 12pt;
   line-height: 22px;
 }
 .postcontent p{
   width: 550px;
-  font-size: 12pt;
   line-height: 22px;
 }
 .post ul{
