@@ -55,7 +55,7 @@ to have files in sync everywhere. I even put my git repos in there at some
 point so I could continue working from every computer I used. With time I used
 it less and less as I simplified my workflows a lot but it was still important
 to have a proper file sync solution, mostly for convenince options like
-syncing [Alred][alfred] preferences. But I wanted to get all my documents out
+syncing [Alfred][alfred] preferences. But I wanted to get all my documents out
 of a location that somebody else had under control. Thankfully ownCloud also
 comes with a client to sync the WebDAV directory between computers. So I
 basically set that up and copied everything over from Dropbox. It has been
