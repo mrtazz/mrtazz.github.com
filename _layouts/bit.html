@@ -1,0 +1,12 @@
+---
+layout: default
+---
+<div class="postdateheading"> {{page.date | date: "%b %d, %Y"}} </div>
+<div class="post">
+    {{ content }}
+</div>
+<ul class="taglist" >
+{% for tag in page.tags %}
+<li><a href="/tags.html#{{ tag }}">{{ tag }}</a> </li>
+{% endfor %}
+</ul>

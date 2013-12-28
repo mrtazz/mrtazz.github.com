@@ -143,3 +143,28 @@ hr {
   color: red;
   margin: 10px;
 }
+
+ul.taglist {
+  margin-top: 50px;
+}
+
+ul.taglist li {
+  display: inline;
+  color: #840044;
+}
+
+ul.tagposts li {
+  color: #840044;
+}
+
+ul.tagposts {
+  margin-top: 15px;
+  list-style-type: none;
+}
+
+h3.tagheading {
+  color: #184468;
+  font-size:24px;
+  margin-top: 20px;
+  margin-bottom: -10px;
+}
