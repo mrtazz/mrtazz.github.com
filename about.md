@@ -10,3 +10,4 @@ team at [Etsy](http://etsy.com). When I'm not writing code, I'm usually having
 breakfast, play basketball or watch TV shows. I also consume coffee and rap
 music in moderate to high volumes every day.
 
+<div style="text-align:center" markdown="1"><img src="/images/bball.jpg" /></div>
