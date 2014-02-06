@@ -1,9 +1,12 @@
 ## [unwiredcouch.com][1] blog
-All original texts and images are licensed under the
-[Creative Commons Attribution license][2]. All code is
-licensed under the MIT license:
+All original texts and images created before 6th Feb 2014 are licensed under
+the [Creative Commons Attribution license][2]. All original texts and images
+created after that date are licensed under the [Creative Commons Attribution
+NonCommercial NoDerivs license][3].
 
-  Copyright (c) 2013 Daniel Schauenberg
+All code is licensed under the MIT license:
+
+  Copyright (c) 2014 Daniel Schauenberg
 
   Permission is hereby granted, free of charge, to any person obtaining
   a copy of this software and associated documentation files (the
@@ -26,3 +29,4 @@ licensed under the MIT license:
 
 [1]: http://unwiredcouch.com
 [2]: http://creativecommons.org/licenses/by/3.0/
+[3]: https://creativecommons.org/licenses/by-nc-nd/3.0/
