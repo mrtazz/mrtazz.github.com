@@ -9,7 +9,7 @@ title: writing
     {% unless post.categories.first == "bits"  %}
       <li>
       <a href="{{ post.url }}"> {{ post.title }}</a>
-      <span class="archivedate">{{ post.date | date: "%b %d, %Y"}}</span>
+      <span class="archivedate hidemobile">{{ post.date | date: "%b %d, %Y"}}</span>
       </li>
     {% endunless %}
   {% endfor %}

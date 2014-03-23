@@ -2,9 +2,11 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
     <head>
         <meta charset="utf-8">
+        <meta http-equiv="cache-control" content="no-cache">
+        <meta http-equiv="pragma" content="no-cache">
         <link href="/css/style.css" media="screen" rel="stylesheet" type="text/css"></link>
+        <link href="/css/mobile.css" media="handheld, only screen and (max-device-width: 960px)" rel="stylesheet" type="text/css"></link>
         <link href="/css/pygments.css" media="screen" rel="stylesheet" type="text/css"></link>
-        <link href="/css/font-awesome/css/font-awesome.min.css" rel="stylesheet">
         <link href="/css/fonts.css" rel="stylesheet">
         <link href="http://feeds.feedburner.com/unwiredcouchcom"
         type="application/atom+xml" rel="alternate" title="unwiredcouch.feed" />
@@ -12,28 +14,24 @@
         <title>{{page.title}} on unwiredcouch.com</title>
     </head>
     <body>
-        <div id="links" class="menu">
-           <a href="/">
+        <div class="menu">
+           <a class="hidemobile" href="/">
              <img src="http://www.gravatar.com/avatar/89e0ad1229121f46047977ac547bd7b4.jpg?s=142"
                   height="100" width="100" class="avatar" alt="gravatar image" />
            </a>
-            <ul class="nobullet">
-                <li><a href="/">writing</a></li>
-                <li><a href="/shorts.html">short bits</a></li>
-                <li><a href="/talks.html">talks</a></li>
-                <li><a href="/projects.html">projects</a></li>
-                <li><a href="/about.html">about</a></li>
+            <ul class="nobullet pagelinks">
+                <li class="menulinks"><a href="/">writing</a></li>
+                <li class="menulinks"><a href="/shorts.html">bits</a></li>
+                <li class="menulinks"><a href="/talks.html">talks</a></li>
+                <li class="menulinks"><a href="/projects.html">projects</a></li>
+                <li class="menulinks"><a href="/about.html">about</a></li>
             </ul>
-            <hr>
-            <ul class="linkicons">
-              <li><a href="http://feeds.feedburner.com/unwiredcouchcom"><i class="icon-rss"
-                  style="font-size: 20px;"> </i></a></li>
-              <li><a href="https://github.com/mrtazz"><i class="icon-github-sign"
-                  style="font-size: 20px;"> </i></a></li>
-              <li><a href="https://twitter.com/mrtazz"><i class="icon-twitter"
-                  style="font-size: 20px;"> </i></a></li>
-              <li><a href="/publickey.html"><i class="icon-key"
-                  style="font-size: 20px;"> </i></a></li>
+            <hr class="hidemobile">
+            <ul class="nobullet linkicons">
+              <li><a href="http://feeds.feedburner.com/unwiredcouchcom"><i class="icon-rss"> </i></a></li>
+              <li><a href="https://github.com/mrtazz"><i class="icon-github-sign"> </i></a></li>
+              <li><a href="https://twitter.com/mrtazz"><i class="icon-twitter"> </i></a></li>
+              <li><a href="/publickey.html"><i class="icon-key"> </i></a></li>
             </ul>
         </div>
         <div id="wrapper">
