@@ -116,6 +116,9 @@ div.menu a.avatar {
 .post p{
   line-height: 22px;
 }
+.post p img{
+  width: 100%;
+}
 .postcontent p{
   width: 550px;
   line-height: 22px;
