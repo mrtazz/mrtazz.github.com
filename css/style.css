@@ -6,7 +6,7 @@
 body {
     background-color: white;
     color: #051822;
-    font-family: "ambleregular", "Arial", sans-serif;
+    font-family: "latoregular", "Arial", sans-serif;
 }
 
 #wrapper {
@@ -57,13 +57,11 @@ ul.archive li{
 h1 {
     font-size:34px;
     margin-bottom: 15px;
-    font-family: "amblebold", "Arial", sans-serif;
 }
 h2 {
     color: #184468;
     font-size: 30px;
     margin-bottom: 22px;
-    font-family: "amblebold", "Arial", sans-serif;
 }
 h3 {
     color: #184468;

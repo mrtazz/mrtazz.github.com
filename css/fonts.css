@@ -22,6 +22,19 @@
 
 }
 
+@font-face {
+    font-family: 'latoregular';
+    src: url('/fonts/lato/Lato-Reg.ttf') format('truetype'),
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'latoregular';
+    src: url('/fonts/lato/Lato-Bol.ttf') format('truetype'),
+    font-weight: bold;
+    font-style: normal;
+}
+
 
 /*!
  *  Font Awesome 3.1.0
