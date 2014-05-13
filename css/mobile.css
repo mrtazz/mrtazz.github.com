@@ -55,6 +55,10 @@ ul.linkicons {
   line-height: 22px;
 }
 
+.post p img{
+  width: 100%;
+}
+
 code {
   font-size: 15px;
 }
