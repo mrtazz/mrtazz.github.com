@@ -1,3 +1,8 @@
+- title: Releasing at Scale panel
+  url: https://www.usenix.org/conference/srecon14/technical-sessions/presentation/releasing-scale
+  conference: Usenix SRECon 2014
+  date: May 30, 2014
+
 - title: A whirlwind Tour of Etsy's Monitoring Stack
   url: https://speakerdeck.com/mrtazz/a-whirlwind-tour-of-etsys-monitoring-stack
   video: https://vimeo.com/95247023
