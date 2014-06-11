@@ -6,7 +6,8 @@ title: Projects
   <h3>Projects on GitHub</h3>
   <ul class="archive">
   {% for project in site.data.githubprojects %}
-    <li><div class="github-widget" data-repo="{{project}}"></div></li>
+    <li><a href="{{project.url}}">{{project.title}}</a>
+    <span>{{project.description}}</span></li>
   {% endfor %}
   </ul>
   </br>
@@ -17,5 +18,3 @@ title: Projects
   {% endfor %}
   </ul>
 </div>
-<script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
-<script src="/js/jquery.githubRepoWidget.js"></script>

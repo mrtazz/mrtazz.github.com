@@ -1,6 +1,24 @@
-- mrtazz/simplenote.vim
-- mrtazz/simplenote.py
-- mrtazz/restclient-cpp
-- mrtazz/plustache
-- mrtazz/katana
-- mrtazz/InstapaperLibrary
+-
+  title: simplenote.vim
+  description: VIM plugin to interact with Simplenote
+  url: http://unwiredcouch.com/simplenote.vim
+-
+  title: simplenote.py
+  description: Python library to interact with Simplenote
+  url: https://github.com/mrtazz/simplenote.py
+-
+  title: restclient-cpp
+  description: C++ client for making HTTP/REST requests
+  url: http://unwiredcouch.com/restclient-cpp
+-
+  title: plustache
+  description: C++ implementation of the Mustache templating language
+  url: http://unwiredcouch.com/plustache
+-
+  title: Katana
+  description: ready to go heroku hosted URL shortener based on guillotine
+  url: http://unwiredcouch.com/katana
+-
+  title: InstapaperLibrary
+  description: Python library to interact with the Instapaper API
+  url: https://github.com/mrtazz/InstapaperLibrary
