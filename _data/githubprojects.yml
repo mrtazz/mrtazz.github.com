@@ -16,7 +16,7 @@
   url: http://unwiredcouch.com/plustache
 -
   title: Katana
-  description: ready to go heroku hosted URL shortener based on guillotine
+  description: ready to go Heroku hosted URL shortener based on <a href="https://github.com/technoweenie/guillotine"> Guillotine </a>
   url: http://unwiredcouch.com/katana
 -
   title: InstapaperLibrary
