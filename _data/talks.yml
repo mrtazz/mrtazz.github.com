@@ -2,10 +2,13 @@
   url: https://speakerdeck.com/mrtazz/development-deployment-and-collaboration-at-etsy-1
   conference: GOTO Amsterdam 2014
   date: Jun 19, 2014
+
 - title: Mobile CI at Etsy
   url: https://speakerdeck.com/mrtazz/mobile-ci-at-etsy
+  video: https://www.youtube.com/watch?v=OhconFwX-2g
   conference: GOTO Amsterdam 2014
   date: Jun 19, 2014
+
 - title: Releasing at Scale panel
   url: https://www.usenix.org/conference/srecon14/technical-sessions/presentation/releasing-scale
   conference: Usenix SRECon 2014
@@ -24,6 +27,7 @@
 
 - title: Development, Deployment and Collaboration at Etsy
   url: https://speakerdeck.com/mrtazz/development-deployment-and-collaboration-at-etsy
+  video: http://www.infoq.com/presentations/development-deployment-collaboration-etsy
   conference: QCon London 2014
   date: Mar 05, 2014
 
