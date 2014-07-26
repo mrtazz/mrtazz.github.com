@@ -1,0 +1,17 @@
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@mrtazz">
+<meta name="twitter:creator" content="@mrtazz">
+{% if page.title %}
+  <meta name="twitter:title" content="{{ page.title }}">
+{% else %}
+  <meta name="twitter:title" content="{{ site.title }}">
+{% endif %}
+{% if page.url %}
+  <meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
+{% endif %}
+{% if page.description %}
+  <meta name="twitter:url" content="{{ page.description }}">
+{% else %}
+{% assign desc = page.content | split: "}})" %}
+<meta name="twitter:description" content="{{  desc[1] | strip_html | xml_escape | truncate: 200 }}">
+{% endif %}
