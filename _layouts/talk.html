@@ -1,0 +1,59 @@
+---
+layout: default
+nomenu: true
+---
+<div class="post talk">
+  <h2> {{ page.title }} </br>
+    <span class="talkbyline"> presented at <a href="{{page.conf.url}}">
+        {{page.conf.location}} </a> on {{ page.conf.date }} </span> </h2>
+  <div class="abstract talksection">
+    <h3> Abstract </h3>
+    <p>
+    {{ page.abstract }}
+    </p>
+  </div>
+  {% if page.dataid %}
+  <div class="slides talksection">
+    <h3> Slides </h3>
+    <div class="center">
+      <script async class="speakerdeck-embed"
+      data-id="{{ page.dataid }}"
+      {% if page.dataratio %}
+      data-ratio="{{ page.dataratio }}"
+      {% else %}
+      data-ratio="1.3333333333333333333333"
+      {% endif %}
+      src="//speakerdeck.com/assets/embed.js"></script>
+    </div>
+  </div>
+  {% endif %}
+  {% if page.youtube %}
+  <div class="video talksection">
+    <h3> Video </h3>
+    <div class="center">
+      <iframe  width="560" height="315" src="//www.youtube.com/embed/{{ page.youtube }}"
+        frameborder="0" allowfullscreen></iframe>
+    </div>
+  </div>
+  {% elsif page.vimeo %}
+  <div class="video talksection">
+    <h3> Video </h3>
+    <div class="center">
+      <iframe src="//player.vimeo.com/video/{{ page.vimeo }}?portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+    </div>
+  </div>
+  {% elsif page.infoq %}
+  <div class="video talksection">
+    <h3> <a href="{{page.infoq}}"> Link to video</a> </h3>
+  </div>
+  {% endif %}
+  <div class="links talksection">
+    <h3> Links </h3>
+    <ul class="nobullet">
+    {% for link in page.links %}
+    <li><a href="{{ link.url }}"> {{ link.name }}</a></li>
+    {% endfor %}
+  </ul>
+  </div>
+</div>
+{% include twitter.html %}

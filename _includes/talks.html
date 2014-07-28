@@ -1,0 +1,12 @@
+## [Talks]({{page.url}})
+
+<div class="postconent talks">
+  <ul class="archive">
+  {% for talk in site.data.talks %}
+    <li>
+    <a href="{{ talk.url }}">{{ talk.title }}</a>, {{ talk.conference }}
+    <span class="archivedate">{{ talk.date }}</span>
+    </li>
+  {% endfor %}
+  </ul>
+</div>

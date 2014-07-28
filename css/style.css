@@ -28,8 +28,11 @@ body {
 }
 
 ul.nobullet {
-  margin-top: 15px;
   list-style-type: none;
+}
+
+div.menu ul.nobullet {
+  margin-top: 15px;
   text-align: right;
 }
 ul.linkicons {
@@ -176,4 +179,17 @@ blockquote p {
 }
 blockquote p.cite {
   margin-top: 10px;
+}
+
+div.talksection {
+  margin-bottom: 30px;
+}
+
+div.talksection .center {
+  width: 75%;
+  margin: 0 auto;
+}
+
+span.talkbyline {
+    font-size: 17px;
 }

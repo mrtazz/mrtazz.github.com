@@ -1,0 +1,30 @@
+---
+layout: talk
+title: Feature Flagging your Infrastructure for Fun and Profit
+conf:
+  location: NYC LOPSA Meetup
+  url: http://www.lopsa-nyc.org/content/feature-flag
+  date: Sep 10, 2013
+dataid: 7a7a4b00fd220130f86e4e717998ee35
+dataratio: 1.57055214723926
+links:
+  - url: http://codeascraft.com
+    name: Etsy Engineering Blog
+  - url: http://etsy.com/codeascraft/talks
+    name: Etsy Engineering Talks
+  - name: Blog post about infrastructure upgrades with Chef at Etsy
+    url: http://codeascraft.com/2013/08/02/infrastructure-upgrades-with-chef/
+
+abstract: "At Etsy we run our production stack exclusively on physical
+hardware and have (including developer and CI VMs) about 1000 nodes managed
+with a single Chef server running the same cookbooks across development and
+production nodes. We have built the knife-spork plugin to support our workflow
+and have 30 engineers making changes about 20 times a day. While this setup
+keeps configuration changes and package installations consistent across our
+network, it makes it harder to gradually roll out and test changes on a per
+node or role basis. In the talk our general workflow will be introduced and
+explained and how we enable engineers to frequently roll out small changes.
+Following the general introduction, our workflow for testing changes will be
+discussed and the library we wrote to enable config flags and gradual roll
+outs for our infrastructure within our chef recipes."
+---

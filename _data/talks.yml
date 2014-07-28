@@ -1,67 +1,60 @@
 - title: Development, Deployment and Collaboration at Etsy
-  url: https://speakerdeck.com/mrtazz/development-deployment-and-collaboration-at-etsy-1
+  url: collaboration-amsterdam
   conference: GOTO Amsterdam 2014
   date: Jun 19, 2014
 
 - title: Mobile CI at Etsy
-  url: https://speakerdeck.com/mrtazz/mobile-ci-at-etsy
-  video: https://www.youtube.com/watch?v=OhconFwX-2g
+  url: mobile-ci-amsterdam
   conference: GOTO Amsterdam 2014
   date: Jun 19, 2014
 
 - title: Releasing at Scale panel
-  url: https://www.usenix.org/conference/srecon14/technical-sessions/presentation/releasing-scale
+  url: releasing-at-scale
   conference: Usenix SRECon 2014
   date: May 30, 2014
 
 - title: A whirlwind Tour of Etsy's Monitoring Stack
-  url: https://speakerdeck.com/mrtazz/a-whirlwind-tour-of-etsys-monitoring-stack
-  video: https://vimeo.com/95247023
+  url: etsy-monitoring
   conference: Monitorama PDX 2014
   date: May 06, 2014
 
 - title: Co-Workers as Customers
-  url: https://speakerdeck.com/mrtazz/co-workers-as-customers-lessons-from-airbnb-and-etsy
+  url: coworkers-as-customers
   conference: SXSW Interactive 2014
   date: Mar 10, 2014
 
 - title: Development, Deployment and Collaboration at Etsy
-  url: https://speakerdeck.com/mrtazz/development-deployment-and-collaboration-at-etsy
-  video: http://www.infoq.com/presentations/development-deployment-collaboration-etsy
+  url: collaboration-london
   conference: QCon London 2014
   date: Mar 05, 2014
 
-- title: Scaling Deployment at Etsy (revised)
-  url: https://speakerdeck.com/mrtazz/continuous-delivery-meetup-nyc-2013
-  video: http://www.youtube.com/watch?v=moXWsHEtBEw
-  conference: Continuous Delivery NYC Meetup
+- title: Scaling Deployment at Etsy
+  url: scaling-deployments-cdnyc
+  conference: Continuous Delivery NYC Meetup Oct 2013
   date: Oct 09, 2013
 
 - title: Feature Flagging your Infrastructure for Fun and Profit
-  url: https://speakerdeck.com/mrtazz/feature-flagging-your-infrastructure-for-fun-and-profit
-  conference: NYC LOPSA Meetup
-  date: Sep 11, 2013
+  url: infrastructure-feature-flags
+  conference: NYC LOPSA Meetup Sep 2013
+  date: Sep 10, 2013
 
 - title: DevTools at Etsy
-  url: https://speakerdeck.com/mrtazz/devtools-at-etsy
-  video: http://vimeo.com/70764386
-  conference: DevOpsDays Berlin
+  url: devtools-at-etsy
+  conference: DevOpsDays Berlin 2013
   date: May 27, 2013
 
 - title: Scaling Deployment at Etsy
-  url: https://speakerdeck.com/mrtazz/scaling-deployment-at-etsy
-  video: http://www.youtube.com/watch?v=AwOG65UGAH4
+  url: scaling-deployments-scaleconf
   conference: Scaleconf Cape Town
   date: Apr 18, 2013
 
 - title: StatsD Workshop
-  url: https://speakerdeck.com/mrtazz/statsd-workshop
-  video: http://vimeo.com/67183450
+  url: statsd-workshop
   conference: Monitorama Boston
   date: Mar 29, 2013
 
 - title: Chef Workflow at Etsy
-  url: https://speakerdeck.com/mrtazz/chef-workflow-at-etsy
+  url: chef-workflow
   conference: NYC Chef Meetup
   date: Jan 29, 2013
 

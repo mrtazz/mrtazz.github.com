@@ -16,6 +16,7 @@
         <title>{{page.title}} on unwiredcouch.com</title>
     </head>
     <body>
+        {% unless page.nomenu %}
         <div class="menu">
            <a class="hidemobile" href="/">
              <img src="http://www.gravatar.com/avatar/89e0ad1229121f46047977ac547bd7b4.jpg?s=142"
@@ -24,7 +25,7 @@
             <ul class="nobullet pagelinks">
                 <li class="menulinks"><a href="/">writing</a></li>
                 <li class="menulinks"><a href="/shorts.html">bits</a></li>
-                <li class="menulinks"><a href="/talks.html">talks</a></li>
+                <li class="menulinks"><a href="/talks">talks</a></li>
                 <li class="menulinks"><a href="/projects.html">projects</a></li>
                 <li class="menulinks"><a href="/about.html">about</a></li>
             </ul>
@@ -36,6 +37,7 @@
               <li><a href="/publickey.html"><i class="icon-key"> </i></a></li>
             </ul>
         </div>
+        {% endunless %}
         <div id="wrapper">
             <div id="content">
                 {{ content }}
