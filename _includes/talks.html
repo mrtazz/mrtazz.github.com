@@ -4,7 +4,7 @@
   <ul class="archive">
   {% for talk in site.data.talks %}
     <li>
-    <a href="{{ talk.url }}">{{ talk.title }}</a>, {{ talk.conference }}
+    <a href="/talks/{{ talk.url }}">{{ talk.title }}</a>, {{ talk.conference }}
     <span class="archivedate">{{ talk.date }}</span>
     </li>
   {% endfor %}
