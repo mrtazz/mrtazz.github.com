@@ -154,7 +154,9 @@ night anyways (as described [here][backup]) so I get that for free. I'm not
 super happy with running this on a cron as there could be a smarter solution
 that checks for changes via the API and marks repositories as dirty, but this
 is the simplest thing that could work and way less work than interacting more
-with the API.
+with the API. In addition I would love to exclude forks from the backup since
+I don't really care about backing those up. But I'll leave this for iteration
+2.
 
 I track changes to the script in my [bin folder repository on GitHub][bin], so
 if you're interested in tracking changes to this setup, follow it there.
