@@ -3,10 +3,20 @@
   conference: Continuous Lifecycle Mannheim 2014
   date: Nov 11, 2014
 
+- title: "Culture: the invisible ingredient (panel)"
+  url: culture-panel
+  conference: Continuous Lifecycle Mannheim 2014
+  date: Nov 10, 2014
+
 - title: Deploy, Collaborate & Listen
   url: deploy-collaborate-listen
   conference: W-JAX Munich 2014
   date: Nov 06, 2014
+
+- title: "DevOps - Jetzt aber richtig (panel in German)"
+  url: wjax2014-panel
+  conference: W-JAX Munich 2014
+  date: Nov 05, 2014
 
 - title: Data Driven Monitoring
   url: data-driven-monitoring
