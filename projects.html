@@ -11,6 +11,14 @@ title: Projects
   {% endfor %}
   </ul>
   </br>
+  <h3>Projects I contribute to</h3>
+  <ul class="archive">
+  {% for project in site.data.contributeprojects %}
+    <li><a href="{{project.url}}">{{project.title}}</a>
+    <span>{{project.description}}</span></li>
+  {% endfor %}
+  </ul>
+  </br>
   <h3>Other stuff I've made</h3>
   <ul class="archive">
   {% for project in site.data.funprojects %}

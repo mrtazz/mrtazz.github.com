@@ -1,0 +1,12 @@
+-
+  title: StatsD
+  description: Etsy's monitoring daemon
+  url: https://github.com/etsy/statsd
+-
+  title: Morgue
+  description: A PostMortem Keeper
+  url: https://github.com/etsy/morgue
+-
+  title: Nagdash
+  description: A Nagios overview and aggregation dashboard
+  url: https://github.com/lozzd/nagdash
