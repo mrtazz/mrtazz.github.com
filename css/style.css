@@ -123,7 +123,13 @@ div.menu a.avatar {
   width: 550px;
   line-height: 22px;
 }
+
 .post ul{
+  margin-left: 30px;
+  margin-bottom: 15px;
+}
+
+.post ol{
   margin-left: 30px;
   margin-bottom: 15px;
 }
