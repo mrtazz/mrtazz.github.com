@@ -5,8 +5,6 @@ published: true
 ---
 
 
-## [{{page.title}}][1]
-
 I have [finally][2] registered my Master's thesis. This means in 6 month
 my university life is over and the hard and cruel reality begins. I am writing
 my thesis at the [Chair of Computer Networks][3] about localization of nodes

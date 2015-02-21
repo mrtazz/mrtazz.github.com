@@ -3,8 +3,6 @@ layout: post
 title: Google Reader to Instapaper bridge
 ---
 
-## [{{ page.title }}]({{ page.url }})
-
 ### The dilemma
 
 For some years now I am using [Google Reader](http://google.com/reader) as my

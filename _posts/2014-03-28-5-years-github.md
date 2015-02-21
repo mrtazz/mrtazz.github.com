@@ -2,7 +2,7 @@
 layout: post
 title: My 5 years of GitHub
 ---
-## [{{page.title}}]({{ page.url }})
+
 In early 2009 I was very much not the typical programmer. I had just spent 3
 years part time in what was basically systems administration during my
 undergrad and 1 year of [trying to connect chemical production plants to

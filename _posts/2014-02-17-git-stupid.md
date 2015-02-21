@@ -2,7 +2,7 @@
 layout: post
 title: Git - Put the stupid back in stupid content tracker
 ---
-## [{{page.title}}]({{ page.url }})
+
 Git describes itself as a [stupid content tracker][git-stupid-man]. While this
 was surely meant as a clever pun and an understatement, there is some truth to
 it. When you go to seek out workflows with git and try to understand how

@@ -4,8 +4,6 @@ title: instapaperlib
 published: true
 ---
 
-## [instapaperlib][instapaperlib_post]
-
 For some time now [instapaper.com][instapaper] is one of the web services I use most.
 Together with the iPhone application it is the perfect storage place for articles and
 blog posts you get via RSS, twitter or from anywhere else. Whenever I don't have time

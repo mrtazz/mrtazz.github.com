@@ -4,8 +4,6 @@ title: "gtd-couch - GTD as a couchapp"
 published: true
 ---
 
-## [{{page.title}}][1]
-
 ### Why another GTD app?
 Over the last years I have tried a lot of task management applications. I was
 always trying to improve the status quo, where I forgot some things I wanted to

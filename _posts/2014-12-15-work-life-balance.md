@@ -4,8 +4,6 @@ title: 3 Simple Things that improved my Work-Life Balance
 published: true
 ---
 
-## [{{ page.title }}]({{ page.url }})
-
 These days productivity and work life balance are two parts of the holy grail
 of modern life for a lot of people. We have an abundance of projects, things
 to work on, things that interest us and distractions to keep us from doing all

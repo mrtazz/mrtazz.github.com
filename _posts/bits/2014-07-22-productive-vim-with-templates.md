@@ -10,8 +10,6 @@ tags:
   - email
 ---
 
-##[{{page.title}}]({{ page.url }})
-
 I basically exist inside of vim all day. I write code in there, I write emails
 in VIM via [mutt][mutt], I take notes with it and I write all my blog posts in
 VIM. I think it's clear that improving the way I work with VIM helps in a

@@ -3,7 +3,6 @@ layout: post
 published: true
 title: You Shouldn't Have To Ask For Forgiveness
 ---
-## [{{page.title}}]({{ page.url }})
 
 A couple of days ago I was part of a private email thread about the popular
 Grace Hopper quote ["It's easier to ask forgiveness than it is to get

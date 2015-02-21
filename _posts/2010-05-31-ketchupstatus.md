@@ -4,8 +4,6 @@ title: Where's ma ketchup?
 published: true
 ---
 
-## [Where's ma ketchup?][ketchupstatus_post]
-
 At our office mondays are special. This is the one day Bobby drives his
 good old trailer to the parking lot of the supermarket next to the office and sells
 chicken and fries.
@@ -21,7 +19,7 @@ web application where we can set and check the current status of our ketchup sup
 So last weekend I sat down and since I wanted to get into ruby anyway, I built a sinatra
 app. It is quite simple and works with a token based API, but it does the job. It is hosted
 on [heroku][ketchup_heroku] if you want to check it out. But you can also fork it on
-[the githubs][ketchup_github], if you want to improve it or adapt it to something else.  
+[the githubs][ketchup_github], if you want to improve it or adapt it to something else.
 
 
 [ketchupstatus_post]: {{ page.url }}

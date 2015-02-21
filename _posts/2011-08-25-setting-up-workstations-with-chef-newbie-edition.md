@@ -4,8 +4,6 @@ title: "Setting up workstations with Chef (Newbie Edition)"
 published: true
 ---
 
-##[{{page.title}}]({{ page.url }})
-
 I have wanted to reinstall and cleanly set up my iMac at home for some time
 now. And since there was a new release of Mac OS X around the corner, it seemed
 like the perfect opportunity to do so. All my past setups and reinstalls were

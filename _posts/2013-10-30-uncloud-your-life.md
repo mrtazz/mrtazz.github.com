@@ -4,8 +4,6 @@ title: "Uncloud your Life"
 published: true
 ---
 
-##[{{page.title}}]({{ page.url }})
-
 There has been a lot of talk lately about privacy in the cloud and owning
 your own data. I'm not linking any articles here, since there are so many
 and I don't think anyone has missed it. However it spurred a new and awesome

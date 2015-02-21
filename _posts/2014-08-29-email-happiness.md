@@ -3,8 +3,6 @@ layout: post
 title: My Rules for E-Mail Happiness
 ---
 
-## [{{page.title}}]({{ page.url }})
-
 Over the last couple of days and maybe weeks a lot of my friends, coworkers
 and most of all people I follow on twitter have been overly excited about the
 beta availability of [an e-mail client][mailbox]. At first I was being

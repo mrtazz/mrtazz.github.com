@@ -13,8 +13,6 @@ tags:
   - zfs
 ---
 
-##[{{page.title}}]({{ page.url }})
-
 As I have [written before][uncloud] I have slowly started to move my data out
 of cloud services where applicable. One part of that was setting up my own
 backup server at home based on [FreeBSD, zfs and rsync][backup]. One part I

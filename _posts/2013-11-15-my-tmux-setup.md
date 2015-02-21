@@ -4,8 +4,6 @@ title: "My Tmux Setup"
 published: true
 ---
 
-##[{{page.title}}]({{ page.url }})
-
 I've been using [tmux][tmux] as my main terminal multiplexer for about 3 years
 now and have refined my configuration over time to fit my daily workflow.
 Which is usually a mix of writing code, chef recipes, remote login into

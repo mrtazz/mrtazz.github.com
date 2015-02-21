@@ -3,7 +3,6 @@ layout: post
 published: true
 title: Bye Bye Fitbit
 ---
-## [{{page.title}}]({{ page.url }})
 
 About a year ago I decided that I had to do something about my fitness. Since
 moving to NYC about 1.5 years prior I went from having basketball training two

@@ -3,7 +3,6 @@ layout: post
 published: true
 title: Learning to be On-Call
 ---
-## [{{page.title}}]({{ page.url }})
 
 I stumbled upon this great [blog post about on-call][on-call-post] the other
 day. It's a great article and you should definitely go read it first. It

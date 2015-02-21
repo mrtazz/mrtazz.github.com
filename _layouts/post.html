@@ -3,6 +3,7 @@ layout: default
 ---
 <div class="postdateheading"> {{page.date | date: "%b %d, %Y"}} </div>
 <div class="post">
+  <h2> <a href="{{ page.url }}"> {{page.title}} </a></h2>
     {{ content }}
 </div>
 {% include twitter.html %}

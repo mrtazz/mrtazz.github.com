@@ -3,7 +3,6 @@ layout: post
 published: true
 title: You're building a Plant
 ---
-## [{{page.title}}]({{ page.url }})
 
 As an infrastructure engineer you're building a plant. Not literally of course
 but it's also not too far off. There are actually a lot of parallels to

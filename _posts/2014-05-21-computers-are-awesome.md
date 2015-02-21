@@ -3,7 +3,6 @@ layout: post
 published: true
 title: Computer Positivity
 ---
-## [{{page.title}}]({{ page.url }})
 
 Let's face it, we've all been there, your database just decided to split
 brains, Linux just killed Apache on your web servers because another process

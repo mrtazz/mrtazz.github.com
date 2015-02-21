@@ -11,7 +11,6 @@ tags:
   - zsh
 ---
 
-##[{{page.title}}]({{ page.url }})
 I have a [collection][muttfiles] [of][vimfiles] [various][zshfiles]
 [dotfiles][dotfiles] which I use to configure the most important tools I use
 everyday. Naturally all those are kept in git and shared between all the

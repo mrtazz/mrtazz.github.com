@@ -4,8 +4,6 @@ title: Almost Endless Screen Real Estate
 published: true
 ---
 
-## [{{ page.title }}]({{ page.url }})
-
 ### Ye olde setup
 
 Some months ago I realized that my Mac mini, used as a media server in my

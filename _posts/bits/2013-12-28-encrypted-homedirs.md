@@ -10,7 +10,6 @@ tags:
   - unix
 ---
 
-##[{{page.title}}]({{ page.url }})
 I run FreeBSD with ZFS on all my servers and I generally want to have my home
 directories encrypted. Since ZFS native encryption is not yet in FreeBSD, I
 create two ZFS filesystems, which are then encrypted with [GELI

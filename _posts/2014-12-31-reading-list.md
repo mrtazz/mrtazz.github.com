@@ -3,7 +3,6 @@ layout: post
 published: true
 title: 2014 Reading List
 ---
-## [{{page.title}}]({{ page.url }})
 
 This year I tried again to keep up the flow of reading books. I'm an awfully
 slow reader when it comes to books in general (not so much for blog posts

@@ -1,10 +1,9 @@
 ---
 layout: post
-title: plustache 
+title: plustache
 published: true
 ---
 
-## [plustache][plustache_post]
 Some time ago I discovered [@defunkt's][@defunkt] logic less
 ruby templating system [mustache][mustache]. I instantly
 liked it because of its simplicity, independence from any frameworks

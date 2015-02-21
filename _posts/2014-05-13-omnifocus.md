@@ -3,7 +3,7 @@ layout: post
 published: true
 title: How OmniFocus controls my life
 ---
-## [{{page.title}}]({{ page.url }})
+
 At this point it's pretty fair to say that [OmniFocus][of] rules my life. I've
 started to really take GTD seriously about 2 years ago. I had tried a lot of
 different task managers before of course. I loved [Things][things] when it

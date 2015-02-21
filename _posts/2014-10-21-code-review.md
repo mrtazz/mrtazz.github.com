@@ -3,7 +3,6 @@ layout: post
 published: true
 title: Code Reviews Considered Awesome
 ---
-## [{{page.title}}]({{ page.url }})
 
 I think by now it is pretty much accepted that collaboration and working
 together is a lot better than assigning blame and yelling at each other. In

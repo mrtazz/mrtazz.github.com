@@ -4,8 +4,6 @@ title: "Getting started with monitoring on the cheap and easy"
 published: true
 ---
 
-##[{{page.title}}]({{ page.url }})
-
 This post started out as a writeup of tools and services I use to monitor my
 small (currently 3) set of personal servers. However thinking about it, it made
 more sense to me to structure it as a small guide on how to get started with

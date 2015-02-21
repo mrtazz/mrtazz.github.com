@@ -4,8 +4,6 @@ title: "IRC notifications with logstash"
 published: true
 ---
 
-##[{{page.title}}]({{ page.url }})
-
 I have spent some time in the last weeks to learn more about
 [logstash](http://logstash.net/) and used the kind of bad state of my IRC
 notifications as the fun side project to get into it. I now have a pretty

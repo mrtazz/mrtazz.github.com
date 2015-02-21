@@ -4,8 +4,6 @@ title: "Testing couchapps with cucumber"
 published: true
 ---
 
-## [{{page.title}}][1]
-
 ### Couchapps overview
 [Couchapps][2] are a great way to build web apps hosted directly on a
 CouchDB. This is due to the integrated HTTP server, so if you can

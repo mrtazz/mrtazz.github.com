@@ -3,7 +3,6 @@ layout: post
 title: "Human Error and Getting off the Hook"
 ---
 
-##[{{page.title}}]({{ page.url }})
 I've been interested in the field of human error and system safety for a while
 now. My original interest in it got sparked by talking to [John
 Allspaw][allspaw] and ultimately reading Sidney Dekker's [The Field Guide to

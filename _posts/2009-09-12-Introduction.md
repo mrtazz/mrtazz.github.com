@@ -1,10 +1,9 @@
 ---
 layout: post
-title: Some introductory words 
+title: Some introductory words
 published: false
 ---
 
-h2. "(posttitle){{page.title}}":{{ page.url }}
 
 h3. Who am I and where am I coming from
 

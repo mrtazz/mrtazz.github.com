@@ -4,8 +4,6 @@ title: "Deploying Sensu monitoring on Heroku"
 published: true
 ---
 
-##[{{page.title}}]({{ page.url }})
-
 ### Sensu - trying to unsuck monitoring
 Some months ago I wanted to set up monitoring for a handful of servers I use
 for personal stuff. As a first solution [Nagios][] came to mind. However for

@@ -12,8 +12,6 @@ tags:
   - backup
 ---
 
-##[{{page.title}}]({{ page.url }})
-
 As I [mentioned before][uncloud] I'm running my own backup on a server that is
 running in my apartment. I didn't really talk a lot about how this works,
 other than it is running on a HP Microserver with an encrypted ZFS RAID. So I

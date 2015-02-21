@@ -11,7 +11,6 @@ tags:
   - documentation
 ---
 
-##[{{page.title}}]({{ page.url }})
 I use [Jekyll][jekyll] a lot, especially for [my website][unwiredcouch]. And I
 quite like it a lot. I also write and open source the occasional software
 every now and then, which usually happens on [my GitHub profile][github]. And
