@@ -62,3 +62,9 @@ ul.linkicons {
 code {
   font-size: 15px;
 }
+
+body {
+  background-color: white;
+  color: #051822;
+  font: "latoregular", "Arial", sans-serif;
+}
