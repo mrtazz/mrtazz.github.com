@@ -117,7 +117,8 @@ div.menu a.avatar {
    margin-bottom: 10px;
 }
 .post p{
-  line-height: 22px;
+  line-height: 1.6;
+  text-rendering: optimizeLegibility;
 }
 .postcontent p{
   width: 550px;
@@ -132,6 +133,11 @@ div.menu a.avatar {
 .post ol{
   margin-left: 30px;
   margin-bottom: 15px;
+}
+
+.post img {
+  display:block;
+  margin:auto;
 }
 
 div.archive {
