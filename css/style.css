@@ -6,7 +6,7 @@
 body {
     background-color: white;
     color: #051822;
-    font-family: "latoregular", "Arial", sans-serif;
+    font: 300 1.1em/1.6em  "latoregular", "Arial", sans-serif;
 }
 
 #wrapper {
