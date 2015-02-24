@@ -68,3 +68,7 @@ body {
   color: #051822;
   font: "latoregular", "Arial", sans-serif;
 }
+
+.post p {
+  line-height: 22px;
+}
