@@ -47,8 +47,9 @@ ul.linkicons {
 }
 
 .postcontent {
-    width: 100%;
-    font-size: 13pt;
+  width: 100%;
+  font-size: 13pt;
+  line-height: 22px;
 }
 .postcontent p{
   width: 100%;
