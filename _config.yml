@@ -1,16 +1,6 @@
-destination: /private/tmp/blog
+destination: _site
 lsi:         false
 port:        4000
 highlighter: pygments
 markdown: redcarpet
-rdiscount:
-  extensions: [smart]
 permalink:   date
-maruku:
-  use_tex:    false
-  use_divs:   false
-  png_dir:    images/latex
-  png_url:    /images/latex
-url:         http://unwiredcouch.com
-domain:      unwiredcouch.com
-headline:    unwiredcouch.com
