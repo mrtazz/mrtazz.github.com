@@ -1,7 +1,7 @@
 -
   title: simplenote.vim
   description: VIM plugin to interact with Simplenote
-  url: http://unwiredcouch.com/simplenote.vim
+  url: http://code.mrtazz.com/simplenote.vim
 -
   title: simplenote.py
   description: Python library to interact with Simplenote
@@ -9,15 +9,15 @@
 -
   title: restclient-cpp
   description: C++ client for making HTTP/REST requests
-  url: http://unwiredcouch.com/restclient-cpp
+  url: http://code.mrtazz.com/restclient-cpp
 -
   title: plustache
   description: C++ implementation of the Mustache templating language
-  url: http://unwiredcouch.com/plustache
+  url: http://code.mrtazz.com/plustache
 -
   title: Katana
   description: ready to go Heroku hosted URL shortener based on <a href="https://github.com/technoweenie/guillotine"> Guillotine </a>
-  url: http://unwiredcouch.com/katana
+  url: http://code.mrtazz.com/katana
 -
   title: InstapaperLibrary
   description: Python library to interact with the Instapaper API

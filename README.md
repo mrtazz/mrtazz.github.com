@@ -1,8 +1,10 @@
-## [unwiredcouch.com][1] blog
+## mrtazz project page
+
 All original texts and images created before 6th Feb 2014 are licensed under
 the [Creative Commons Attribution license][2]. All original texts and images
 created after that date are licensed under the [Creative Commons Attribution
-NonCommercial NoDerivs license][3].
+NonCommercial NoDerivs license][3]. If you were looking for the source to my
+blog, check [here][1].
 
 All code is licensed under the MIT license:
 
@@ -27,6 +29,6 @@ All code is licensed under the MIT license:
   OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
   WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-[1]: http://unwiredcouch.com
+[1]: https://github.com/mrtazz/unwiredcouch.com
 [2]: http://creativecommons.org/licenses/by/3.0/
 [3]: https://creativecommons.org/licenses/by-nc-nd/3.0/
